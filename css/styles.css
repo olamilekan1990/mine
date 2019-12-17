@@ -1,0 +1,18 @@
+.colhead h5{
+color: black;
+font-size: medium;
+}
+
+.colhead p{
+    color: red;
+    font-size: medium;
+}
+
+.colhead button{
+    margin-left: 3%;
+    background-color: black;
+}
+
+/* .colhead button{
+    background-color: black;
+} */
